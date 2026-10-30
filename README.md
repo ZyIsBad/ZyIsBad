@@ -2,7 +2,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img height="200" src="https://i.pinimg.com/originals/b1/d9/73/b1d97351756fd5ee7391f9b89c643554.gif"/>
 </div>
 
